@@ -1,2 +1,3 @@
-name: Hank Quinlan, Horrible Cop
+name: Page Host
 markdown: kramdown
+permalink: /host/:year/:month/:day/:title
